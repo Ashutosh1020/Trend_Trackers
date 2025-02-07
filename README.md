@@ -103,10 +103,6 @@ Year-over-year comparisons
 ## 📍 Interactive Map
 Explore EV manufacturer locations and market activities across India through a live interactive map.
 
-### Map Preview
-> *Navigate using zoom and filter options.*
-<img src="Images/map_ev_maker.jpg" alt="Interactive EV Map" width="700">
-
 
 ---
 
