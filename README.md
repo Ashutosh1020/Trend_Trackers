@@ -98,11 +98,6 @@ Seasonal variations
 Key revenue contributors
 Year-over-year comparisons
 
----
-
-## 📍 Interactive Map
-Explore EV manufacturer locations and market activities across India through a live interactive map.
-
 
 ---
 
@@ -138,6 +133,12 @@ Expand analysis to include external factors affecting revenue.
 
 
 ---
+
+
+
+
+
+
 
 
 
