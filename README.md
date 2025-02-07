@@ -9,7 +9,7 @@ Analyze the calendar year revenue dataset to gain insights into revenue trends, 
 ---
 
 ### 🎥 Quick Video Preview
->[Click here to watch a video demo](https://youtu.be/cQyyRON5OTw))
+>[Click here to watch a video demo](https://youtu.be/cQyyRON5OT))
 
 ---
 
