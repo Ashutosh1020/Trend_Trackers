@@ -1,13 +1,6 @@
 ## Project code : B42_DA_016 ##
 #  Trend Trakcers
 
-<img src="Images/Ev_animation.gif" alt="Ev Animation" width='200'>
-
----
-
-# 🚀 Domain: 
->🚘[Open Website Link](https://b41da004analytics-aces-jyocqvphdfyov8fij7xspz.streamlit.app/)
-
 ---
 
 ## Overview
