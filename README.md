@@ -4,15 +4,16 @@
 </div>
 
 <div align="center">
-
-## Project code : B42_DA_016 ##
-#  Trend Trakcers
        
+ <h3>Block 41 - Construct Week Group Project</h3>
+ <h3>Project Code : B42_DA_016_Trend Trakcers </h3>
+  <h3>Project Name :Trend Trakcers</h3>
+  
  </div>
  
 <div align="center">
 
-<img src="https://github.com/Ashutosh1020/Trend_Trackers/blob/main/Logo.jpg" width="260" height="190" alt="Dashboard">
+<img src="https://github.com/Ashutosh1020/Trend_Trackers/blob/main/Logo.jpg" width="200" height="190" alt="Dashboard">
 
  </div>
 
@@ -44,16 +45,26 @@
  6.Customizable Reports: Generate reports for different time periods and factors.
 
 ---
+  <h3>Directory Structure --></h3>
+<pre>
+Trend_Trackers
+   ├─ Logo.jpg
+   ├─ MySQL_Project.sql
+   ├─ Trend_Trackers.pbix
+   ├─ Trend_Trackers.ipynb
+   ├─ cleaned_revenue_data.csv
+   ├─ README.md
+</pre>
 
 ## 🛠 Technology Stack
 
-## SQL Database (e.g., MySQL, PostgreSQL, SQL Server)
+#### SQL Database (e.g., MySQL, PostgreSQL, SQL Server)
 
-## Power BI for visualization
+#### Power BI for visualization
 
-## Python/Pandas (optional) for data preprocessing
+#### Python/Pandas (optional) for data preprocessing
 
-## Excel (if applicable for initial data handling)
+#### Excel (if applicable for initial data handling)
 ---
 
 ## 🚀 How to Run the Application
@@ -62,7 +73,6 @@
 1.Clean the dataset using Python (Pandas) and prepare it for analysis.
 
 2.Load the cleaned dataset and integrates it with sql
-
 
 3.Download and configure the Power BI SQL connector.
 
@@ -74,7 +84,19 @@ Explore and analyze revenue trends.
     ```bash
     pip install streamlit pandas numpy plotly folium geopandas streamlit-folium
     ```
+ ### Run Locally  💻
 
+<h4>1. Clone the project </h4>
+
+```
+git clone https://github.com/Ashutosh1020/Trend_Trackers
+
+```
+<h4>2. Go to the project directory </h4> 
+
+```
+cd Trend_Trackers
+```
 
 ## 📈 Project Architecture
 
@@ -107,41 +129,47 @@ Seasonal variations
 Key revenue contributors
 Year-over-year comparisons
 
-
 ---
 
-## 📋 Authors
-- Ashutosh
-- Ritika
-- Nikhil
+<div align="left">
+  <h3 align="left">👷 Contributors:</h3>
+  <div style="display: flex; justify-content: left; align-items: flex-start; gap: 20px; margin-top: 20px;">
+    <div style="text-align: left;">
+      <h3>✦ <a href="https://github.com/Ashutosh1020" target="_blank">Ashutosh </a></h3>
+      <h3>✦ <a href="https://github.com/Ritika-Chavhan" target="_blank">Ritika</a></h3>
+      <h3>✦ <a href="https://github.com/nikhil9276" target="_blank">Nikhil </a></h3>
+    </div>
+  </div>
+</div>
 
 ---
+### ScreenShots of Dashboard📷
 
-## ✉️ Feedback
-Analyze the calendar year revenue dataset to gain insights into revenue trends, seasonal patterns, and key contributing factors.
----
+<h4>» Home Page </h4>
+<img src="https://github.com/Ashutosh1020/Trend_Trackers/blob/main/Trend_trackers_screenshos/Home_Page.jpg" width="700" height="300" alt="Home page">
 
-## 🤝 Acknowledgments
-Clear insights into revenue trends over the year.
+<h4>»Revenue Page </h4>
+<img src="https://github.com/Ashutosh1020/Trend_Trackers/blob/main/Trend_trackers_screenshos/Revenue_Page.jpg" width="700" height="300" alt="Revenue page">
 
-Identification of seasonal patterns affecting revenue.
-
-Data-driven decision-making using visual dashboards.
-
----
-
-
-
-## 🛠 Future Enhancements
-Automate data ingestion and updates.
-
-Integrate machine learning models for revenue forecasting.
-
-Expand analysis to include external factors affecting revenue.
+<h4>» Geography Page </h4> 
+<img src="https://github.com/Ashutosh1020/Trend_Trackers/blob/main/Trend_trackers_screenshos/Geography_Page.jpg" width="700" height="300" alt="Geography page">
+ 
+ ##
 
 
 
----
+  # Request  🤗
+<div>
+<li>If You find any bug then please create an issue we love to solve that</li>
+<li>If you want to contribute to this project then feel free to make a pull request we love to merge your request</li>
+ </div>
+   
+ <h4>😊 If you like this project then feel free to give Star🌟</h4>
+ 
+  
+ ### Feedback / Contributing 🤝
+ > Contributions are always welcome! Just raise an issue, and we will discuss it.
+ > If you have any feedback, please reach out to us <a href="mailto: uashutosh309@gmail.com">Team Trend Trackers</a>
 
 
 
