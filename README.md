@@ -49,6 +49,7 @@
 <pre>
 Trend_Trackers
    ├─ Logo.jpg
+   ├─ Trend_trackers_screenshots
    ├─ MySQL_Project.sql
    ├─ Trend_Trackers.pbix
    ├─ Trend_Trackers.ipynb
