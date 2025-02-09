@@ -6,8 +6,8 @@
 <div align="center">
        
  <h3>Block 41 - Construct Week Group Project</h3>
- <h3>Project Code : B42_DA_016_Trend Trakcers </h3>
-  <h3>Project Name :Trend Trakcers</h3>
+ <h3>Project Code : B42_DA_016_Trend Trackers </h3>
+  <h3>Project Name :Trend Trackers</h3>
   
  </div>
  
