@@ -1,15 +1,31 @@
+<div align="center">
+<h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> there, we are <span style="color: #447ED5">Team Trend Trackers</span></h2>
+ 
+</div>
+
+<div align="center">
+
 ## Project code : B42_DA_016 ##
 #  Trend Trakcers
+       
+ </div>
+ 
+<div align="center">
+
+<img src="https://github.com/Ashutosh1020/Trend_Trackers/blob/main/Logo.jpg" width="260" height="190" alt="Dashboard">
+
+ </div>
 
 ---
 
-## Overview
 
-Analyze the calendar year revenue dataset to gain insights into revenue trends, seasonal patterns, and key contributing factors. This project involves data cleaning, loading the prepared data into an SQL database, and building a Power BI dashboard to visualize the insights.
----
+<h3 align="left"> About This Project 📖</h3>
+ 
+<h3>Analyze the calendar year revenue dataset to gain insights into revenue trends, seasonal patterns, and key contributing factors. This project involves data cleaning, loading the prepared data into an SQL database, and building a Power BI dashboard to visualize the insights.</h3>
+
 
 ### 🎥 Quick Video Preview
->[Click here to watch a video demo](https://youtu.be/cQyyRON5OT))
+>[Click here to watch a video demo](https://youtu.be/PPPkmH5S-Ls))
 
 ---
 
